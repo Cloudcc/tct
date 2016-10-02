@@ -1,0 +1,11 @@
+
+{
+  "variants": {
+
+    "burning_sides-0": { "model": "terrariacraft:cook_pot_model_0"},
+    "burning_sides-1": { "model": "terrariacraft:cook_pot_model_1"},
+    "burning_sides-2": { "model": "terrariacraft:cook_pot_model_2"},
+    "burning_sides-3": { "model": "terrariacraft:cook_pot_model_3"},
+    "burning_sides-4": { "model": "terrariacraft:cook_pot_model_4"}
+  }
+}

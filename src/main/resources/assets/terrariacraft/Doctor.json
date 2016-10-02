@@ -1,0 +1,7 @@
+{
+  "Doctor": {
+    "category": "record",
+    "sounds": [{"name": "terrariacraft:Doctor",
+                         "stream": false}]
+  }
+}

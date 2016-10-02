@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "terrariacraft:items/adamantium_sword"
+    }
+}

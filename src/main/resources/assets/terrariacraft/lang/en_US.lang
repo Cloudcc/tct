@@ -1,0 +1,25 @@
+item.adamantit_helmet.name=Adamantit Helmet
+item.adamantit_chestplate.name=Adamantit Chestplate
+item.adamantit_boots.name=Adamantit Boots
+item.adamantit_leggings.name=Adamantit Leggings
+
+
+
+item.adamantit_dust.name=Adamantit Dust
+item.adamantit_ingot.name=Adamantit Ingot
+
+item.cheese.name=Cheese
+item.cracker.name=Cracker
+item.ironcoalingot.name=IronCoal Ingot
+item.cheese_and_cracker.name=Cheese and Cracker
+
+container.tile_entity_cooking_pot.name= Cooking Pot
+tile.cheese.name=Cheese Block
+tile.jar.name=Cracker Jar
+tile.cowhead.name=Cow Head
+tile.rubyore.name=Ruby Ore
+tile.yellow_furnace.name=Yellow Furnace
+container.yellow_furnace=Yellow Furnace
+
+
+itemGroup.tabTerrariacraft=Terrariacraft

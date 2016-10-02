@@ -1,0 +1,52 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "0": "terrariacraft:blocks/cow/CowFaceBack",
+        "1": "terrariacraft:blocks/cow/CowFaceEast",
+        "2": "terrariacraft:blocks/cow/CowFace",
+        "3": "terrariacraft:blocks/cow/CowFaceWest",
+        "4": "terrariacraft:blocks/cow/CowFaceTop",
+        "5": "terrariacraft:blocks/cow/CowFaceBottom"
+    },
+    "elements": [
+        {
+            "name": "Head",
+            "from": [ 4.0, 0.0, 2.0 ], 
+            "to": [ 12.0, 8.0, 8.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "east": { "texture": "#1", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "rotation": 270 },
+                "south": { "texture": "#2", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "west": { "texture": "#3", "uv": [ 0.0, 0.0, 16.0, 16.0 ], "rotation": 90 },
+                "up": { "texture": "#4", "uv": [ 0.0, 0.0, 16.0, 16.0 ] },
+                "down": { "texture": "#5", "uv": [ 0.0, 0.0, 6.0, 3.0 ] }
+            }
+        },
+        {
+            "name": "Horn1",
+            "from": [ 4.0, 8.0, 4.0 ], 
+            "to": [ 5.0, 10.0, 5.0 ], 
+            "faces": {
+                "north": { "texture": "#5", "uv": [ 5.0, 0.0, 6.0, 2.0 ] },
+                "east": { "texture": "#5", "uv": [ 5.0, 0.0, 6.0, 2.0 ], "rotation": 270 },
+                "south": { "texture": "#5", "uv": [ 5.0, 0.0, 6.0, 2.0 ] },
+                "west": { "texture": "#5", "uv": [ 4.0, 0.0, 5.0, 2.0 ] },
+                "up": { "texture": "#5", "uv": [ 2.0, 1.0, 3.0, 2.0 ] },
+                "down": { "texture": "#-1", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
+            }
+        },
+        {
+            "name": "Horn2",
+            "from": [ 11.0, 8.0, 4.0 ], 
+            "to": [ 12.0, 10.0, 5.0 ], 
+            "faces": {
+                "north": { "texture": "#5", "uv": [ 5.0, 0.0, 6.0, 2.0 ] },
+                "east": { "texture": "#5", "uv": [ 5.0, 0.0, 6.0, -1.0 ] },
+                "south": { "texture": "#5", "uv": [ 3.0, 0.0, 2.0, 4.0 ] },
+                "west": { "texture": "#5", "uv": [ 4.0, 0.0, 5.0, 2.0 ] },
+                "up": { "texture": "#5", "uv": [ 2.0, 1.0, 3.0, 2.0 ] },
+                "down": { "texture": "#-1", "uv": [ 0.0, 0.0, 1.0, 1.0 ] }
+            }
+        }
+    ]
+}

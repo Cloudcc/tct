@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "terrariacraft:blocks/furnace_top",
+        "front": "terrariacraft:blocks/furnace_front_off",
+        "side": "terrariacraft:blocks/furnace_side"
+    }
+}

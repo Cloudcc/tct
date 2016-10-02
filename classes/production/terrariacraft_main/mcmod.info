@@ -1,8 +1,8 @@
 [
 {
-  "modid": "terrarariacraft",
-  "name": "Terrariacraft",
-  "description": "a placeholder mod.",
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",

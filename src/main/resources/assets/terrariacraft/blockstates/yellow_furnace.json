@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": {"model": "terrariacraft:yellow_furnace"},
+    "facing=south": {"model": "terrariacraft:yellow_furnace", "y": 180},
+
+    "facing=west": {"model": "terrariacraft:yellow_furnace", "y": 270},
+
+    "facing=east": {"model": "terrariacraft:yellow_furnace", "y": 90}
+  }
+}
