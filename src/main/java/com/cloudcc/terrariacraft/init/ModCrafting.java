@@ -26,7 +26,7 @@ public class ModCrafting {
         GameRegistry.addSmelting(ModItems.mithril_dust, new ItemStack(ModItems.mithril_ingot), 10);
         GameRegistry.addSmelting(ModItems.adamantit_dust,new ItemStack(ModItems.adamantit_ingot), 20);
 
-        //armor
+        ///armor
         GameRegistry.addShapedRecipe(new ItemStack(ModItems.adamantium_boots),"A A","ADA", 'A', ModItems.adamantit_ingot, 'D', ModItems.mithril_boots);
         GameRegistry.addShapedRecipe(new ItemStack(ModItems.adamantium_chestplate),"ADA","AAA","AAA", 'A', ModItems.adamantit_ingot, 'D', ModItems.mithril_chestplate);
         GameRegistry.addShapedRecipe(new ItemStack(ModItems.adamantium_helmet),"AAA","ADA", 'A', ModItems.adamantit_ingot, 'D', ModItems.mithril_helmet);
